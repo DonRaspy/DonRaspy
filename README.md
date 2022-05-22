@@ -4,6 +4,15 @@
 - 💞️ I’m looking to collaborate on ... Making simple websites to practice what I've learned. 
 - 📫 How to reach me ... Nikosbrashear@gmail.com 
 
+ (            (   (       )  
+ )\ )   (     )\ ))\ ) ( /(  
+(()/(   )\   (()/(()/( )\()) 
+ /(_)|(((_)(  /(_))(_)|(_)\  
+(_))  )\ _ )\(_))(_))__ ((_) 
+| _ \ (_)_\(_) __| _ \ \ / / 
+|   /  / _ \ \__ \  _/\ V /  
+|_|_\ /_/ \_\|___/_|   |_|   
+                             
 <!---
 DonRaspy/DonRaspy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
