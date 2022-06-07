@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonRaspy
 - 👀 I’m interested in ... Photography, Motorcycles, and building cars. 
-- 🌱 I’m currently learning ... Everything! Im starting with HTML, CSS, and JS.
-- 💞️ I’m looking to collaborate on ... Making simple websites to practice what I've learned. 
+- 🌱 I’m currently learning ... JS.
+- 💞️ I’m looking to collaborate on ... Personal projects to help build my portfolio. 
 - 📫 How to reach me ... Nikosbrashear@gmail.com 
   
 <!---
